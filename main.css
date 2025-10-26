@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card, label, p {
+    font-size: 14px;
+}
+
+form, input {
+    font-size: 12px !important;
+}
+
+@media (max-width: 769px) {
+    .re-width {
+        width: auto;
+    }
+}
